@@ -49,7 +49,7 @@
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>
-<img src="https://i0.wp.com/moodle.sit.ac.in/blog/wp-content/uploads/2023/06/c.png?fit=709%2C555&ssl=1" width="40"/>
+<img src="https://i0.wp.com/moodle.sit.ac.in/blog/wp-content/uploads/2023/06/c.png?fit=709%2C555&ssl=1" width="60"/>
 </td>
 
 <td align="center">
