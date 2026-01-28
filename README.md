@@ -98,27 +98,38 @@
 ## 💻 Check Out My Repos
 
 <table>
-<tr>
-<td>
-[![Repo: tayyabadev](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=tayyabadev&theme=tokyonight)](https://github.com/jeevithswarup/html-css-practice-projects)
-</td>
-<td>
-[![Repo: GithubFinderProject](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=GithubFinderProject&theme=tokyonight)](https://github.com/jeevithswarup/django-student-management-system)
-</td>
-</tr>
-<tr>
-<td>
-[![Repo: leetcode-solutions-two-pointers-](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=leetcode-solutions-two-pointers-&theme=tokyonight)](https://github.com/jeevithswarup/school-attendance)
-</td>
-<td>
-[![Repo: one-liner-Project](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=one-liner-Project&theme=tokyonight)](https://github.com/jeevithswarup/java-basics)
-</td>
-</tr>
-<tr>
-<td>
-[![Repo: weather-app](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=weather-app&theme=tokyonight)](https://github.com/jeevithswarup/django-portfolio)
-</td>
-</tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jeevithswarup/html-css-practice-projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=tayyabadev&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jeevithswarup/django-student-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=GithubFinderProject&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jeevithswarup/school-attendance">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=leetcode-solutions-two-pointers-&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jeevithswarup/java-basics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=one-liner-Project&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jeevithswarup/django-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=weather-app&theme=tokyonight" />
+      </a>
+    </td>
+    <td></td> <!-- Empty to keep table consistent -->
+  </tr>
 </table>
 
 
