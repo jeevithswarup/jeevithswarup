@@ -84,6 +84,12 @@
 </td>
 </tr>
 </table>
+## 📈 Activity Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevithswarup&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeevithswarup&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeevithswarup&theme=tokyonight" />
+
 
 ## 🚀 Current Focus
 
