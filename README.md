@@ -1,4 +1,3 @@
-# Jeevith_Swarup-GitHub-Profile
 # Hi 👋, I'm Jeevith Swarup
 
 🎓 3rd Year Computer Science Engineering Student  
