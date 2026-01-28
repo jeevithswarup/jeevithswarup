@@ -79,19 +79,8 @@
 <td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevithswarup&theme=tokyonight" />
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeevithswarup&theme=tokyonight" />
-</td>
-</tr>
-</table>
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&theme=tokyonight" alt="Jeevith's GitHub Stats" />
-</td>
-<td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithswarup&layout=compact&theme=tokyonight" alt="Top Languages" />
+</td>
 </td>
 </tr>
 </table>
