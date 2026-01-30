@@ -9,14 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Strong in **Python, Django, and DRF**
-- 🔐 Interested in **Backend Development & Web Security**
-- 🏗️ Built projects like:
-  - Portfolio Website (Django)
-  - To-Do List Manager
-  - Bank Management System (OOP)
-  - Student Course Management System (API-based)
-- 🎯 Goal: Become a professional **Backend Engineer**
+- 💻 Learning and building backend applications using **Python, Django & DRF**
+- 🌦️ Working on a **Weather API project** to understand API design
+- 🧠 Practicing **DSA with Java** for problem-solving and placements
+- 🔐 Exploring **web security fundamentals**
+- 🎯 Aspiring **Backend Engineer**
 
 ---
 
