@@ -78,8 +78,7 @@
 <td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevithswarup&theme=tokyonight" />
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeevithswarup&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithswarup&layout=compact&theme=tokyonight" alt="Top Languages" />
 </td>
 </tr>
 </table>
