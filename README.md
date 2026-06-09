@@ -103,36 +103,6 @@ Status   →  ✅ Open to Internships & Full-time Roles
 
 ---
 
-## ⟡ &nbsp;Competitive Programming
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**LeetCode**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Jeevith__1722-000?style=for-the-badge&logo=leetcode&logoColor=00ff87)](https://leetcode.com/u/Jeevith_1722/)
-
-<img src="https://leetcard.jacoblin.cool/Jeevith_1722?theme=dark&font=Noto%20Sans&ext=heatmap&border=1&radius=8&width=400&border_color=00ff87" width="400"/>
-
-</td>
-<td align="center" width="50%">
-
-**Codeforces**
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-jeevithswarup-000?style=for-the-badge&logo=codeforces&logoColor=00ff87)](https://codeforces.com/profile/jeevithswarup)
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=jeevithswarup&theme=dark&force_username=true&border_color=00ff87&bg_color=000000&title_color=00ff87&text_color=a8ffcb" width="370"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## ⟡ &nbsp;Featured Project
 
