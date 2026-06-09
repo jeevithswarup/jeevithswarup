@@ -30,7 +30,7 @@
 <tr>
 <td valign="top" width="58%">
 
-**Jeevith Swarup** is a backend-focused software developer pursuing B.E. in Computer Science Engineering (3rd Year), passionate about engineering clean, secure, and production-grade systems using Python and the Django ecosystem.
+**Jeevith Swarup** is a backend-focused software developer pursuing B.E. in Computer Science Engineering (4rd Year), passionate about engineering clean, secure, and production-grade systems using Python and the Django ecosystem.
 
 <br/>
 
