@@ -114,68 +114,6 @@
 </table>
 
 <br/>
-
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=E8EAF0&labelColor=0d1530)
-![Django](https://img.shields.io/badge/Django-0a0e1a?style=for-the-badge&logo=django&logoColor=E8EAF0&labelColor=0d1530)
-![DRF](https://img.shields.io/badge/REST_Framework-0a0e1a?style=for-the-badge&logo=django&logoColor=8892B0&labelColor=0d1530)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=E8EAF0&labelColor=0d1530)
-![JWT](https://img.shields.io/badge/JWT_Auth-0a0e1a?style=for-the-badge&logo=jsonwebtokens&logoColor=8892B0&labelColor=0d1530)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-0a0e1a?style=for-the-badge&logo=bootstrap&logoColor=E8EAF0&labelColor=0d1530)
-![Chart.js](https://img.shields.io/badge/Chart.js-0a0e1a?style=for-the-badge&logo=chartdotjs&logoColor=8892B0&labelColor=0d1530)
-![Java](https://img.shields.io/badge/Java-0a0e1a?style=for-the-badge&logo=openjdk&logoColor=E8EAF0&labelColor=0d1530)
-![Git](https://img.shields.io/badge/Git-0a0e1a?style=for-the-badge&logo=git&logoColor=8892B0&labelColor=0d1530)
-![Postman](https://img.shields.io/badge/Postman-0a0e1a?style=for-the-badge&logo=postman&logoColor=E8EAF0&labelColor=0d1530)
-![Linux](https://img.shields.io/badge/Linux-0a0e1a?style=for-the-badge&logo=linux&logoColor=8892B0&labelColor=0d1530)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=200&height=28&lines=///+GITHUB+METRICS" alt="section"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0&include_all_commits=true&count_private=true&ring_color=1a3a6e" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithswarup&hide_border=true&background=0a0e1a&ring=1a3a6e&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=3a4a6e&sideNums=E8EAF0&currStreakNum=E8EAF0" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithswarup&bg_color=0a0e1a&color=8892B0&line=1a3a6e&point=64FFDA&area=true&area_color=0d1530&hide_border=true&custom_title=Contribution+Activity" width="94%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeevithswarup&theme=darkhub&no-frame=true&column=6&margin-w=8&no-bg=true" width="94%"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=220&height=28&lines=///+FEATURED+PROJECT" alt="section"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Travique](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=Travique&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0)](https://github.com/jeevithswarup/Travique)
-
-</div>
-
-<br/>
-
-<table>
-<tr><td width="22%" align="right"><strong>Product</strong></td><td>Full-stack personalized travel planning web application</td></tr>
-<tr><td align="right"><strong>Type</strong></td><td>Hackathon Project — Built end-to-end</td></tr>
-<tr><td align="right"><strong>Stack</strong></td><td>Django · Django REST Framework · PostgreSQL · Bootstrap 5 · Chart.js · JWT Auth</td></tr>
-<tr><td align="right"><strong>Features</strong></td><td>Multi-city itinerary builder · Real-time budget tracking · Public trip sharing · Activity discovery · Packing checklist</td></tr>
-<tr><td align="right"><strong>Architecture</strong></td><td>Role-based access control (Traveler + Admin) · Unique shareable trip URLs · REST API backend</td></tr>
-</table>
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -300,7 +238,55 @@
  <tr>
  </tr>
 </table>
+</div>
+
 ---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=200&height=28&lines=///+GITHUB+METRICS" alt="section"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0&include_all_commits=true&count_private=true&ring_color=1a3a6e" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithswarup&hide_border=true&background=0a0e1a&ring=1a3a6e&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=3a4a6e&sideNums=E8EAF0&currStreakNum=E8EAF0" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithswarup&bg_color=0a0e1a&color=8892B0&line=1a3a6e&point=64FFDA&area=true&area_color=0d1530&hide_border=true&custom_title=Contribution+Activity" width="94%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jeevithswarup&theme=darkhub&no-frame=true&column=6&margin-w=8&no-bg=true" width="94%"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=220&height=28&lines=///+FEATURED+PROJECT" alt="section"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Travique](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=Travique&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0)](https://github.com/jeevithswarup/Travique)
+
+</div>
+
+<br/>
+
+<table>
+<tr><td width="22%" align="right"><strong>Product</strong></td><td>Full-stack personalized travel planning web application</td></tr>
+<tr><td align="right"><strong>Type</strong></td><td>Hackathon Project — Built end-to-end</td></tr>
+<tr><td align="right"><strong>Stack</strong></td><td>Django · Django REST Framework · PostgreSQL · Bootstrap 5 · Chart.js · JWT Auth</td></tr>
+<tr><td align="right"><strong>Features</strong></td><td>Multi-city itinerary builder · Real-time budget tracking · Public trip sharing · Activity discovery · Packing checklist</td></tr>
+<tr><td align="right"><strong>Architecture</strong></td><td>Role-based access control (Traveler + Admin) · Unique shareable trip URLs · REST API backend</td></tr>
+</table>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=240&height=28&lines=///+CURRENT+LEARNING+PATH" alt="section"/>
