@@ -71,49 +71,6 @@
 </table>
 
 ---
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=180&height=28&lines=///+TECH+STACK" alt="section"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb&theme=dark&perline=2"/>
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark&perline=2"/>
-
-</td>
-<td align="center" width="25%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,c&theme=dark&perline=2"/>
-
-</td>
-<td align="center" width="25%">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=2"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -238,6 +195,49 @@
  <tr>
  </tr>
 </table>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=180&height=28&lines=///+TECH+STACK" alt="section"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb&theme=dark&perline=2"/>
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark&perline=2"/>
+
+</td>
+<td align="center" width="25%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c&theme=dark&perline=2"/>
+
+</td>
+<td align="center" width="25%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=2"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 </div>
 
 ---
